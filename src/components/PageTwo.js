@@ -1,9 +1,9 @@
 import DataService from "./DataService";
 
-const About = () => {
+const PageTwo = () => {
     return(
         <DataService />
     );
 }
 
-export default About;
+export default PageTwo;

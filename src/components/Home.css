@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.button-type {
+    float: left;
+    width: 33.33%;
+}
